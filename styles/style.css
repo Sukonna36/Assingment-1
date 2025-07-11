@@ -11,7 +11,7 @@ body, html {
 
 /* Header Section */
 .header-container {
-    background-image: url("./Images/Hero-bg.png");
+    background-image: url(".assets/Hero-bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
