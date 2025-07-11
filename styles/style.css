@@ -57,9 +57,28 @@ nav li a{
 
 .header{
   background-image: url('../Assets/Hero-bg.png');
-  background-repeat: 
-  
 }
+
+.firts-section{
+  margin-bottom: 120px;
+}
+
+.banner-title{
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.banner{ 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 130px;
+}
+
+.banner-first-pic{
+  border-radius: 48px;
+}
+
 
 
 
